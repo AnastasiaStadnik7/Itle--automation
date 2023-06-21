@@ -1,0 +1,23 @@
+{
+  "name": "itle--automation",
+  "version": "1.0.0",
+  "description": "\"# Itle--automation\"",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaStadnik7/Itle--automation.git"
+  },
+  "keywords": [],
+  "author": "Anastasia Stadnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaStadnik7/Itle--automation/issues"
+  },
+  "homepage": "https://github.com/AnastasiaStadnik7/Itle--automation#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "set": [
+    {
+      "userName": " Automation example",
+      "email": "77777777@gmail.com"
+    },
+    {
+      "userName": "Anastasiya",
+      "email": "12345@mail.ru"
+    },
+    {
+      "userName": "Hello test ",
+      "email": "15603119@rambler.ru"
+    },
+    {
+      "userName": "test AutomAtion",
+      "email": "333333@yandex.ru"
+    }
+  ]
+}
